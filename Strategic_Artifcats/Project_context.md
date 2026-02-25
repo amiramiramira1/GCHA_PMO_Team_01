@@ -7,5 +7,9 @@ By focusing on organization and proper documentation, the project reduces confus
 
 
 ## Current Risks
-1.Invisibility
-2.Conformity
+
+### Invisibility
+refers to the lack of clear visibility across distributed teams working in different locations. Without proper tracking and communication, problems may remain hidden until they become serious.
+
+### Conformity 
+refers to the risk of not fully complying with healthcare regulations, standards, and internal project policies. Any failure in compliance may lead to legal issues and loss of trust.
