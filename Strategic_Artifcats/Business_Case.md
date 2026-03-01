@@ -88,11 +88,11 @@ Early detection of patient deterioration, making GlobalCare innovative and first
 
 ## Recommendation
 **Proceed with GCHA development using Hybrid Lifecycle Strategy.**  
-✅ Positive NPV ($679,200)  
-✅ Strong ROI (133%)  
-✅ Strategic alignment clear  
-✅ Technical feasibility acceptable  
-✅ Risks managed appropriately
+ Positive NPV ($679,200)  
+ Strong ROI (133%)  
+ Strategic alignment clear  
+ Technical feasibility acceptable  
+ Risks managed appropriately
 
 **Approved by:** Team 01 London PMO  
 **Date:** 28 February 2026
