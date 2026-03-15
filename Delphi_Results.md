@@ -16,7 +16,6 @@ Train the GCHA AI predictive model using cleaned historical patient data from 85
 |-------------|------|---------|-----------|
 | Habiba      | Berlin AI Specialist | 60h  | Transfer learning reduces time; assumes clean data |
 | Amira        | Cairo Data Lead      | 200h | Data messy; multiple iterations likely |
-| Menna    | Bangalore Lead      | 100h | Assumes 80% clean data, 2-3 runs |
 | Enas    | London PM           | 80h  | Modern AI tools; clean data assumed |
 
 **Range:** 60h - 200h → **Spread factor:** 3.33×
