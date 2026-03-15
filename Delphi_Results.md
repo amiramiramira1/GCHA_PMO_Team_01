@@ -36,7 +36,6 @@ Train the GCHA AI predictive model using cleaned historical patient data from 85
 |-------------|---------|---------|-----------------|
 | Habiba      | 60h     | 100h    | Accounted for 3 iterations + validation buffer |
 | Amira        | 200h    | 140h    | Risk reduced with confirmed clean data |
-| Menna    | 100h    | 110h    | Added buffer for integration issues |
 | Enas      | 80h     | 120h    | Adjusted for strict accuracy target |
 
 **Final Range:** 100h - 140h  
