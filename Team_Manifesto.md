@@ -4,15 +4,15 @@
 
 **Name:** Amira Alfred Adeeb
 **Email:** [amiragohar11@gmail.com](mailto:amiragohar11@gmail.com)
-**Initial Role:** Jira Admin, GitHub Admin
+**Initial Role:** Jira Admin, Lead Planner (Bangalore)
 
 **Name:** Habiba Ashraf Mukhtar
 **Email:** [habibaashraf94h@gmail.com](mailto:habibaashraf94h@gmail.com)
-**Initial Role:** Documentation Lead
+**Initial Role:** Site Coordinator (Berlin)
 
 **Name:** Enas Osama Nabil
 **Email:** [nosaosama570@gmail.com](mailto:nosaosama570@gmail.com)
-**Initial Role:** Lead PM
+**Initial Role:** Risk Officer (Cairo)
 
 ## Conflict Resolution Process
 
