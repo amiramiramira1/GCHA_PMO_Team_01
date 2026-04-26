@@ -91,3 +91,40 @@ to maintain sequential logic. Both tasks had sufficient float to absorb the
 shift without affecting the Critical Path delivery date.
 
 ---
+## Conflict Resolution — Documentation Standard
+
+**Date:** 26 April 2026
+
+**Participants:**
+- Berlin Lead (ِAmira Alfred )
+- Cairo Lead (Habiba Ashraf)
+- Mediator / PM (Enas Osama)
+
+---
+
+### Conflict Description
+There was a disagreement between the Berlin and Cairo leads regarding the documentation format.
+Berlin preferred a technically detailed format, while Cairo required a more readable format for compliance and audits.
+
+---
+
+### Core Needs
+- Berlin Lead: Technical accuracy for developers
+- Cairo Lead: Readability for audits
+
+---
+
+### Leadership Style
+Facilitator
+
+---
+
+### Final Decision
+A hybrid documentation format will be used:
+- Technical section (Berlin format)
+- Summary section (Cairo format)
+
+---
+
+### Rationale
+This decision balances technical precision with compliance needs and allows the project to move forward.
