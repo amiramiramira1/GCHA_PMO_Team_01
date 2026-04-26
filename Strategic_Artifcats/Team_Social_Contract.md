@@ -82,6 +82,6 @@ to the GlobalCare Board — even when the news is bad.
 
 **Signed by all team members:**
 
-Inas Osama: @nosaosama570-enas
-Amira Alfarid: 
+Enas Osama: @nosaosama570-enas
+Amira Alfred: @amiragohar11@gmail.com
 Habiba Ashraf: 
