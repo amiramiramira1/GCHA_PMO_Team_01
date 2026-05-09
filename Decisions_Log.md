@@ -128,3 +128,85 @@ A hybrid documentation format will be used:
 
 ### Rationale
 This decision balances technical precision with compliance needs and allows the project to move forward.
+
+## Decision Log: The Berlin AI Pivot
+---
+## Chapter 8 | Date: May 10, 2026 | Decision-Maker: Habiba Ashraf(London)
+---
+
+### The Situation
+
+Berlin's AI module currently has a CPI of 0.50, meaning the team is spending $2 for every $1 of delivered value. Approximately $2,000,000 has already been spent while only $1,000,000 of actual value has been produced.
+
+The remaining AI work was originally estimated at $500,000 internally. However, based on the current CPI performance, the projected actual cost to complete internally is approximately $1,000,000.
+
+An external Health-AI vendor has offered to complete the AI diagnostic module for a fixed-price contract of $600,000 with significantly lower execution risk.
+
+---
+
+### Options Considered
+
+| Option | Description | Projected Cost to Complete |
+|--------|-------------|----------------------------|
+| A: Continue Internal | Berlin team continues with current approach | ~$1,000,000 |
+| B: Outsource to Vendor | External Health-AI firm completes the module | $600,000 |
+| C: Descope | Remove AI module from Phase 1 entirely | $0 |
+
+---
+
+### Decision: OPTION B — Outsource to External Vendor
+
+**Reasoning:**
+
+The project team has decided to outsource the Berlin AI module to the external Health-AI vendor for a fixed price of $600,000. Based on the current CPI of 0.50, continuing internal development would likely cost approximately $1,000,000 with a high probability of additional schedule delays and performance issues.
+
+Option B reduces execution risk, improves delivery confidence, and saves approximately $400,000 compared to continuing with the current internal team structure. The selected vendor has previous experience delivering healthcare AI solutions successfully, making this the most reliable corrective action for the project recovery strategy.
+
+---
+
+### Why the $2M Already Spent Does NOT Factor Into This Decision
+
+**The Sunk Cost Principle:**
+
+The $2,000,000 already spent on the Berlin AI initiative is considered a sunk cost. This money has already been spent and cannot be recovered regardless of which decision is made next.
+
+The project team intentionally excluded the sunk cost from the decision-making process because professional project management focuses on future cost, future value, and future risk — not past spending.
+
+Wrong reasoning (Sunk Cost Trap):
+
+> "We already spent $2M, so we must continue internally."
+
+Correct professional reasoning:
+
+> "The $2M is already gone. The only relevant question is which option provides the best outcome moving forward."
+
+Option A would require approximately $1,000,000 more with high delivery risk.
+
+Option B requires $600,000 with lower risk and a higher probability of successful completion.
+
+Therefore, Option B provides the best forward-looking business value.
+
+---
+
+### Impact on Project Baseline
+
+- ETC revised: Internal ~$1,000,000 → Vendor $600,000
+- Estimated savings from pivot: ~$400,000
+- Revised EAC:
+  - Original EAC: $14,670,000
+  - Savings from Vendor Pivot: −$400,000
+  - Revised EAC: $14,270,000
+
+- Berlin RAG Status:
+  - Previous Status: 🔴 RED
+  - Updated Status: 🟡 AMBER (Vendor onboarding and transition phase)
+
+- Knowledge Transfer Period:
+  - Estimated duration: 2 weeks
+  - Estimated overlap cost: ~$30,000
+
+---
+
+### Tuckman Note
+
+This pivot decision may create a temporary Storming-stage disruption within the Berlin team as responsibilities transition to the external vendor. The PM must communicate the decision professionally and respectfully, acknowledging the effort already contributed by the Berlin team while redirecting key specialists toward higher-priority core diagnostic modules.
