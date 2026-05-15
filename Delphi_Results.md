@@ -3,7 +3,7 @@
 
 **Date:** 15/3/2026  
 **Facilitator:** Enas (London PM)  
-**Participants:** 4 team members (Berlin, Cairo, Bangalore, London PM)  
+**Participants:** 3 team members (Berlin, Cairo, Bangalore, London PM)  
 ---
 
 ## Task Description
@@ -22,10 +22,10 @@ Train the GCHA AI predictive model using cleaned historical patient data from 85
 ---
 
 ## Discussion Highlights
-- Bob: Hospital data quality is a major risk  
-- Alice: Transfer learning valid, saves time  
-- Charlie: 3 iterations realistic  
-- Diana: 90% medical accuracy stricter than commercial  
+- Hospital data quality is a major risk  
+- Transfer learning valid, saves time  
+- 3 iterations realistic  
+- 90% medical accuracy stricter than commercial  
 
 **Key Insight:** Cairo must pre-clean data before Berlin starts; 3 training iterations needed
 
