@@ -210,3 +210,24 @@ Therefore, Option B provides the best forward-looking business value.
 ### Tuckman Note
 
 This pivot decision may create a temporary Storming-stage disruption within the Berlin team as responsibilities transition to the external vendor. The PM must communicate the decision professionally and respectfully, acknowledging the effort already contributed by the Berlin team while redirecting key specialists toward higher-priority core diagnostic modules.
+
+
+
+
+### Corrective Actions to Reduce Burnout While Maintaining Quality for Berlin Summit
+
+**Action 1:** Move non-critical UI enhancement tasks to the next sprint to reduce cognitive overload and allow developers to focus on core system stability.
+
+**Action 2:** Automate regression testing and coverage reporting to reduce repetitive manual QA work without increasing developer workload.
+
+---
+
+### Link Between APQ and Product Quality
+
+**The Critical Insight:**  
+When Administrative Performance Quality (APQ) degrades — through burnout, Requirement Volatility, or communication latency — the Defect Removal Efficiency (DRE) drops.
+
+The mechanism:  
+Burnout → rushed code reviews → missed defects in Appraisal → defects leak to hospitals → External Failure costs explode
+
+Maintaining APQ is not a "people management" nice-to-have. It is a direct cost control mechanism that protects the $12M project budget from External Failure costs.
