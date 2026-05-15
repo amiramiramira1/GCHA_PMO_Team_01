@@ -10,7 +10,7 @@ Purpose: This document records the assumptions behind the original estimates for
 |----------|-----------------|----------------|
 | BAN-001  | 5 days          | Nurse UI uses standard login; no biometric authentication required |
 | BER-001  | 7 days          | AI training data from Cairo hospitals is clean; minimal preprocessing needed |
-| SYS-002  | 4 days          | Existing database structure will be used; no new database design required |
+| CAI-002  | 4 days          | Existing database structure will be used; no new database design required |
 
 
 
